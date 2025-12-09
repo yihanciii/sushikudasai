@@ -52,6 +52,17 @@ geopandas
 
 ---
 
+## SafePath Demo
+
+### Generating Route
+![](assets/segment_1.gif)
+
+### Show the Heatmap
+![](assets/segment_2.gif)
+
+### User Report
+![](assets/segment_3.gif)
+
 ## How to Run
 
 Backend:
